@@ -1,31 +1,17 @@
 # Telco Customer Churn Prediction — End-to-End Machine Learning Pipeline
 
+#  Telco Customer Churn Prediction — End-to-End ML Pipeline
 
-<!-- CORE STACK -->
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-End--to--End%20Pipeline-8E44AD?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Framework-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting%20Model-1E8449?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-00A86B?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
-<!-- DATA + ENGINEERING -->
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pipeline](https://img.shields.io/badge/ML%20Pipeline-Production%20Ready-2E86C1?style=for-the-badge)
-
----
-
-<!-- BUSINESS FOCUS -->
-![Business Problem](https://img.shields.io/badge/Focus-Customer%20Churn%20Prediction-E74C3C?style=for-the-badge)
-![Recall Optimized](https://img.shields.io/badge/Metric-Recall%20Focused-FF6B6B?style=for-the-badge)
-![Imbalanced Data](https://img.shields.io/badge/Challenge-Class%20Imbalance-F39C12?style=for-the-badge)
-
----
-
-<!-- DEPLOYMENT -->
-![Joblib](https://img.shields.io/badge/Model%20Export-Joblib%20Serialized-2980B9?style=for-the-badge)
-![Production](https://img.shields.io/badge/Status-Production%20Ready-27AE60?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Type-End--to--End%20ML%20Pipeline-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
+![Model Export](https://img.shields.io/badge/Deployment-Joblib%20Serialized-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Business-Churn%20Prediction-critical?style=for-the-badge)
 
 ---
 
