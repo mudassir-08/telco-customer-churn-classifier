@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction — End-to-End Machine Learning Pipelinegit
+# Telco Customer Churn Prediction — End-to-End Machine Learning Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
