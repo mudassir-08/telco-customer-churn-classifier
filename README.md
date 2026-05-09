@@ -1,5 +1,36 @@
 # Telco Customer Churn Prediction — End-to-End Machine Learning Pipeline
 
+
+<!-- CORE STACK -->
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-End--to--End%20Pipeline-8E44AD?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Framework-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting%20Model-1E8449?style=for-the-badge)
+
+---
+
+<!-- DATA + ENGINEERING -->
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pipeline](https://img.shields.io/badge/ML%20Pipeline-Production%20Ready-2E86C1?style=for-the-badge)
+
+---
+
+<!-- BUSINESS FOCUS -->
+![Business Problem](https://img.shields.io/badge/Focus-Customer%20Churn%20Prediction-E74C3C?style=for-the-badge)
+![Recall Optimized](https://img.shields.io/badge/Metric-Recall%20Focused-FF6B6B?style=for-the-badge)
+![Imbalanced Data](https://img.shields.io/badge/Challenge-Class%20Imbalance-F39C12?style=for-the-badge)
+
+---
+
+<!-- DEPLOYMENT -->
+![Joblib](https://img.shields.io/badge/Model%20Export-Joblib%20Serialized-2980B9?style=for-the-badge)
+![Production](https://img.shields.io/badge/Status-Production%20Ready-27AE60?style=for-the-badge)
+
+---
+
+---
+
 ##  Project Overview
 
 Customer churn prediction is one of the most important applications of machine learning in the telecom industry. Telecom companies lose significant revenue when customers discontinue services, and retaining existing customers is substantially cheaper than acquiring new ones.
